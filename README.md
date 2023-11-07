@@ -1,2 +1,4 @@
 # leikur1
-Leikur1 í FORR2GL05DU-Hát (1-S2)
+
+### [Video](https://www.youtube.com/watch?v=Zj0OFSuwBdE)
+###  [code]()
